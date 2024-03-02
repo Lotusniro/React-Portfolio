@@ -1,0 +1,11 @@
+.footer{
+    width: 100vw;
+
+    background-color: #8c2626;
+}
+
+svg:hover{
+    color: #fc7a1e;
+    transition: 0.5s;
+    scale: 1.2;
+}
