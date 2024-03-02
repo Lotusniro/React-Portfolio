@@ -42,4 +42,6 @@ If you have any questions about the repo, open an issue or contact me directly a
 
 git link
 ![github
-](https://github.com/Lotusniro/React-Portfolio)https://github.com/Lotusniro/React-Portfolio
+](https://github.com/Lotusniro/React-Portfolio)https://github.com/Lotusniro/React-Portfolio)
+![
+](https://lotusniro.github.io/)https://lotusniro.github.io/)
