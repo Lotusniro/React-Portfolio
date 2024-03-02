@@ -16,7 +16,8 @@ This is my react portfolio based on React and some node modules. It is a single 
 ![screent1
 ](https://github.com/Lotusniro/React-Portfolio/blob/main/screenshots/Screenshot%202024-03-02%20at%2016.37.32.png)
 
-## Installation
+![screeny2
+](https://github.com/Lotusniro/React-Portfolio/blob/main/screenshots/Screenshot%202024-03-02%20at%2016.37.44.png)## Installation
 To install the necessary dependencies, run the following command:
 npm install
 
