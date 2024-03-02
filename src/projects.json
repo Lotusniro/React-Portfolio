@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Weather Dashboard",
-      "image":"./src/assets/images/image1.jpeg",
+      "image":"./images/image1.jpeg",
       "deployedLink": "https://lotusniro.github.io/Weather-Forecast/",
       "githubLink": "https://github.com/Lotusniro/Weather-Forecast"
     },
