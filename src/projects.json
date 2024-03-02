@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Weather Dashboard",
-      "image":"./React-Portfolio/src/images/image1.jpeg",
+      "image":"https://github.com/Lotusniro/React-Portfolio/blob/main/src/images/image1.jpeg",
       "deployedLink": "https://lotusniro.github.io/Weather-Forecast/",
       "githubLink": "https://github.com/Lotusniro/Weather-Forecast"
     },
