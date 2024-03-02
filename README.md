@@ -13,6 +13,8 @@ This is my react portfolio based on react and node modules.
 ## Description
 This is my react portfolio based on React and some node modules. It is a single page application with a navigation bar that allows the user to navigate to different sections of the page. The page is responsive and can be viewed on different devices. The page is also optimized for search engines.
 
+![screent1
+](https://github.com/Lotusniro/React-Portfolio/blob/main/screenshots/Screenshot%202024-03-02%20at%2016.37.32.png)
 
 ## Installation
 To install the necessary dependencies, run the following command:
