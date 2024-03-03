@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import projectdata from "../../../projectdata";
+import Projectdata from "../../../Projectdata";
 import Project from "../Project/Project"
 
 
@@ -12,7 +12,7 @@ function ProjectGallery() {
     <div>
   
     <ul>
-        {projectdata.map((project) => (
+        {Projectdata.map((project) => (
           <li key={project.id}>
             <Project data={project} />
           </li>
